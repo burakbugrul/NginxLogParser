@@ -20,7 +20,7 @@ $ ./parser <input-file> <output-file>
 
 2)
 ```
-$ ./parser <input-file> <output-file>
+$ ./parser
 Please enter path of the log file: <input file>
 Please enter path of the output file: <output file>
 ```
