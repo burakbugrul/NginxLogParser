@@ -2,23 +2,19 @@
 
 ## Compile
 
-1)
 ```
 $ make
 ```
-
-2)
+or
 ```
 $ g++ main.cpp NginxParser.cpp -std=c++14 -O2 -o parser
 ```
 
 # Run
-1)
 ```
 $ ./parser <input-file> <output-file>
 ```
-
-2)
+or
 ```
 $ ./parser
 Please enter path of the log file: <input file>
